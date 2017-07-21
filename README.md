@@ -8,7 +8,7 @@ In the late 1990's a [paper](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 This network has been used by the United States Postal Service to recognize handwritten addresses and by banks to read checks. The next big update for convolutional neural networks came in 2012 when Alex Krizhevsky presented [AlexNet](https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf) at the ImageNet Large Scale Visual Recognition Challenge, a competition where computers attempt to identify objects in an image. AlexNet was a modified version of LeNet, and had an accuracy of ~85 percent. Since then, as of 2016, convolutional network have been the only networks to win ImageNet.
 
 ### LeNet Architecture
-<img src = "letnet.png">
+<img src = "lenet.png">
 
 ### This Project
 
